@@ -1,6 +1,6 @@
 "# Banking-Software-in-PHP-MySQL" 
 
-Youtube Tutorial : https://youtu.be/HPm-7UUGqtE
+Youtube Tutorial : https://youtu.be/KOZyosSNJ_g
 
 Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
